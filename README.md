@@ -24,7 +24,7 @@ Objetivo: Após o usuário acessar a api do site e clicar no botão no centro da
 
 ![Captura de tela de 2021-12-11 22-53-01](https://user-images.githubusercontent.com/80183407/145728299-e8c7010d-5e9d-4c89-b0ff-e735cb2c4660.png)
 
-### Configurando o method Get do API Gateway para seguir o flow demostrado abaixo;
+### Configurando o method Get do API Gateway para seguir o flow demonstrado abaixo;
 
 ![Captura de tela de 2021-12-11 22-56-44](https://user-images.githubusercontent.com/80183407/145728392-20f3970e-6dd2-4286-bd60-1fe74fa9a09c.png)
 
